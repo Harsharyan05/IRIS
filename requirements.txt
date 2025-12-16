@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+supabase
+python-dotenv
+PyPDF2
+pdfplumber
+pyjwt
+requests
+pydantic
+reportlab
+python-multipart
